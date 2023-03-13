@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PAM_Activity Intent</string>
+    <string name="btn_login_title">Masuk</string>
+    <string name="label_username">Nama Pengguna</string>
+    <string name="label_password">Kata Sandi</string>
+    <string name="label_signup">Daftar</string>
+    <string name="label_welcome">Selamat Datang</string>
+    <string name="label_balance">Saldo</string>
+    <string name="label_menu">Menu</string>
+    <string name="label_transfer">Transfer</string>
+    <string name="label_briva">BRIVA</string>
+    <string name="label_electricity">Listrik</string>
+    <string name="label_other">Lainnya</string>
+    <string name="label_financial">Catatan Keuangan</string>
+    <string name="label_view_details">Lihat Detail</string>
+    <string name="label_income">Pemasukan</string>
+    <string name="label_expenses">Pengeluaran</string>
+    <string name="label_differnce">Selisih</string>
+    <string name="label_last_transaction">Transaksi Terakhir</string>
+    <string name="label_view_mutation">Lihat Mutasi</string>
+    <string name="label_today">Hari ini</string>
+    <string name="label_this_month">Bulan ini</string>
+    <string name="label_home">Home</string>
+    <string name="label_mutation">Mutasi</string>
+    <string name="label_activity">Aktivitas</string>
+    <string name="label_profile">Profil</string>
+    <string name="label_search_mutation">Cari Mutasi</string>
+    <string name="label_choose_account">Pilih Rekening</string>
+    <string name="label_choose_date">Pilih Data</string>
+    <string name="label_search">Cari</string>
+    <string name="label_first_name">Nama Depan</string>
+    <string name="label_last_name">Nama Belakang</string>
+    <string name="label_confirm_password">Konfirmasi Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="label_logout">Keluar</string>
+    <string name="label_change_profile">Ubah Photo Profil</string>
+    <string name="label_success">Sukses</string>
+    <string name="label_allowcamera">Izin Kamera diterima</string>
+    <string name="label_accesscamera">Perlu izin untuk mengakses Kamera</string>
+    <string name="label_denycamera">Izin Kamera ditolak secara permanen. Anda dapat mengaktifkannya di setelan aplikasi</string>
+    <string name="label_allowmic">Izin Merekam Audio diterima</string>
+    <string name="label_accessmic">Perlu izin untuk mengakses Rekam Audio</string>
+    <string name="label_denymic">Izin Rekam Audio ditolak secara permanen. Anda dapat mengaktifkannya di setelan aplikasi</string>
+    <string name="label_confirmation">Konfirmasi</string>
+    <string name="label_exitapp">Apakah kamu ingin menutup aplikasi ini?</string>
+    <string name="label_cancle">Batal</string>
+    <string name="label_yes">Ya</string>
+    <string name="label_fav">Fitur Favorit</string>
+    <string name="label_topup">Top Up</string>
+    <string name="label_pulsa">Pulsa</string>
+    <string name="label_dompet">Dompet Digital</string>
+    <string name="label_brizzi">BRIZZI</string>
+    <string name="label_tarik">Tarik Tunai</string>
+    <string name="label_financial_statements">Laporan Keuangan</string>
+    <string name="label_inpo">Info Rekening</string>
+
+    <string name="label_bill">Info Tagihan</string>
+    <string name="label_transfercash">Transfer dan Tarik Tunai</string>
+    <string name="label_deposit">Setor Tunai</string>
+    <string name="label_qr">QR Pedagang</string>
+    <string name="label_international">Transfer Internasional</string>
+    <string name="label_forex">Konversi Valas</string>
+    <string name="label_instalment">Cicilan</string>
+    <string name="label_education">Pendidikan</string>
+    <string name="label_telkom">Telkom</string>
+    <string name="label_bpjs">BPJS</string>
+    <string name="label_investasi">Investasi</string>
+
+
+</resources>
