@@ -33,11 +33,13 @@ import edu.uksw.fti.pam.pam_activityintent.ui.theme.PAM_ActivityIntentTheme
 
 @Composable
 fun SetengahBunder() {
+//    val scrollState = rememberScrollState()
     Column(
         modifier = Modifier
             .fillMaxSize()
             .background(colorResource(id = R.color.white))
             .wrapContentSize(Alignment.Center)
+//            .verticalScroll(state = scrollState)
     ) {
         Canvas(modifier = Modifier.fillMaxSize()) {
             val canvasWidth = size.width

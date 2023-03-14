@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PAM_Activity Intent</string>
+    <string name="app_name">BRImo</string>
     <string name="btn_login_title">Login</string>
     <string name="label_username">Username</string>
     <string name="label_password">Password</string>
@@ -53,7 +53,6 @@
     <string name="label_tarik">Cash Withdrawal</string>
     <string name="label_financial_statements">Financial Statements</string>
     <string name="label_inpo">Rekening Info</string>
-
     <string name="label_bill">Bill</string>
     <string name="label_transfercash">Transfer and Withdraw Cash</string>
     <string name="label_deposit">Cash Deposit</string>

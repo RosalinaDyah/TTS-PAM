@@ -1,9 +1,6 @@
 package edu.uksw.fti.pam.pam_activityintent.ui.screns
 
-import androidx.compose.foundation.BorderStroke
-import androidx.compose.foundation.Image
-import androidx.compose.foundation.background
-import androidx.compose.foundation.border
+import androidx.compose.foundation.*
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Icon
@@ -28,12 +25,14 @@ import edu.uksw.fti.pam.pam_activityintent.ui.theme.PAM_ActivityIntentTheme
 
 @Composable
 fun ArticleScreen() {
+//    val scrollState = rememberScrollState()
     Column(
         horizontalAlignment = Alignment.CenterHorizontally,
         modifier = Modifier
             .fillMaxSize()
             .background(colorResource(id = R.color.white))
             .padding(20.dp)
+//            .verticalScroll(state = scrollState)
     ) {
         Text(
             text = stringResource(R.string.label_mutation),

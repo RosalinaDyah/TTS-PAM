@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PAM_Activity Intent</string>
+    <string name="app_name">BRImo</string>
     <string name="btn_login_title">Masuk</string>
     <string name="label_username">Nama Pengguna</string>
     <string name="label_password">Kata Sandi</string>
@@ -54,7 +54,6 @@
     <string name="label_tarik">Tarik Tunai</string>
     <string name="label_financial_statements">Laporan Keuangan</string>
     <string name="label_inpo">Info Rekening</string>
-
     <string name="label_bill">Info Tagihan</string>
     <string name="label_transfercash">Transfer dan Tarik Tunai</string>
     <string name="label_deposit">Setor Tunai</string>

@@ -15,7 +15,8 @@ interface JSONPlaceholderTypicodeRepository {
          fun getClient(): JSONPlaceholderTypicodeRepository {
             if (_apiClient == null) {
                 _apiClient = Retrofit.Builder()
-                    .baseUrl("http://192.168.1.3:3000/")
+//                    .baseUrl("http://192.168.1.3:3000/")
+                    .baseUrl("http://192.168.43.142:3000/")
                     .addConverterFactory(GsonConverterFactory.create())
                     .build()
                     .create(JSONPlaceholderTypicodeRepository::class.java)
